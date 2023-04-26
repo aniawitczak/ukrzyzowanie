@@ -1,3 +1,4 @@
+#która godzina
 # import time
 # def czas_liczba():
 #     start=time.time()

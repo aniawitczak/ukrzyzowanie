@@ -7,7 +7,7 @@
 #     wynik = koniec - start
 #     return wynik
 # print(czas_liczba())
-
+#tak
 # def odwroc(napis):
 #     wynik=""
 #     for i in  range(len(napis)):

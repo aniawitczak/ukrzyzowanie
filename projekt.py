@@ -73,3 +73,5 @@
 
 # print(zmien_znak("wlazł kotek na płotek"))
 # print(zmien_znak("W Pacanowie Kozy Kują"))
+
+#pomocy

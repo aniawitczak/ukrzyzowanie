@@ -13,6 +13,7 @@
 #     for i in  range(len(napis)):
 #         wynik+=napis[len(napis)-i-1]
 #     return wynik
+#nie
 
 # print(odwroc("Ala ma kota"))
 # print(odwroc("kot ma Ale"))
